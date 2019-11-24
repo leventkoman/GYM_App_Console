@@ -1,0 +1,21 @@
+c:\users\levent\documents\visual studio 2015\Projects\BodyBuldingWorkout\BodyBuldingWorkout\bin\Debug\BodyBuldingWorkout.exe.config
+c:\users\levent\documents\visual studio 2015\Projects\BodyBuldingWorkout\BodyBuldingWorkout\bin\Debug\BodyBuldingWorkout.exe
+c:\users\levent\documents\visual studio 2015\Projects\BodyBuldingWorkout\BodyBuldingWorkout\bin\Debug\BodyBuldingWorkout.pdb
+c:\users\levent\documents\visual studio 2015\Projects\BodyBuldingWorkout\BodyBuldingWorkout\bin\Debug\EntityFramework.dll
+c:\users\levent\documents\visual studio 2015\Projects\BodyBuldingWorkout\BodyBuldingWorkout\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\levent\documents\visual studio 2015\Projects\BodyBuldingWorkout\BodyBuldingWorkout\bin\Debug\EntityFramework.xml
+c:\users\levent\documents\visual studio 2015\Projects\BodyBuldingWorkout\BodyBuldingWorkout\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\levent\documents\visual studio 2015\Projects\BodyBuldingWorkout\BodyBuldingWorkout\obj\Debug\BodyBuldingWorkout.exe
+c:\users\levent\documents\visual studio 2015\Projects\BodyBuldingWorkout\BodyBuldingWorkout\obj\Debug\BodyBuldingWorkout.pdb
+C:\Users\Levent\documents\visual studio 2015\Projects\BodyBuldingWorkout\BodyBuldingWorkout\obj\Debug\BodyBuldingWorkout.csprojResolveAssemblyReference.cache
+F:\Son\Visual Studio\Projects\BodyBuldingWorkout\BodyBuldingWorkout\bin\Debug\BodyBuldingWorkout.exe.config
+F:\Son\Visual Studio\Projects\BodyBuldingWorkout\BodyBuldingWorkout\bin\Debug\BodyBuldingWorkout.exe
+F:\Son\Visual Studio\Projects\BodyBuldingWorkout\BodyBuldingWorkout\bin\Debug\BodyBuldingWorkout.pdb
+F:\Son\Visual Studio\Projects\BodyBuldingWorkout\BodyBuldingWorkout\bin\Debug\EntityFramework.dll
+F:\Son\Visual Studio\Projects\BodyBuldingWorkout\BodyBuldingWorkout\bin\Debug\EntityFramework.SqlServer.dll
+F:\Son\Visual Studio\Projects\BodyBuldingWorkout\BodyBuldingWorkout\bin\Debug\EntityFramework.xml
+F:\Son\Visual Studio\Projects\BodyBuldingWorkout\BodyBuldingWorkout\bin\Debug\EntityFramework.SqlServer.xml
+F:\Son\Visual Studio\Projects\BodyBuldingWorkout\BodyBuldingWorkout\obj\Debug\BodyBuldingWorkout.csprojAssemblyReference.cache
+F:\Son\Visual Studio\Projects\BodyBuldingWorkout\BodyBuldingWorkout\obj\Debug\BodyBuldingWorkout.csproj.CopyComplete
+F:\Son\Visual Studio\Projects\BodyBuldingWorkout\BodyBuldingWorkout\obj\Debug\BodyBuldingWorkout.exe
+F:\Son\Visual Studio\Projects\BodyBuldingWorkout\BodyBuldingWorkout\obj\Debug\BodyBuldingWorkout.pdb
